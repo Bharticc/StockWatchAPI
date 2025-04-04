@@ -1,0 +1,1 @@
+stockWatchlist API is built for managing a personal stock watchlist. Users can add, remove, and view stocks that they are monitoring. This project is intended to help investors track and manage their stock investments more efficiently.
